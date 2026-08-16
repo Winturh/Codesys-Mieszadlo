@@ -3,11 +3,12 @@ PLC-based automation project implementing an automated industrial mixing process
 
 Main features:
 
-Automated process sequence
-State-machine based control
-Motor and valve control
-Timer-based process stages
-Sensor-based transitions
-Start/Stop functionality
-Safe shutdown logic
-CODESYS Visualization
+Automated process sequence;
+State-machine based control;
+Motor and valve control;
+Timer-based process stages;
+Sensor-based transitions;
+Start/Stop functionality;
+Safe shutdown logic;
+
+CODESYS Visualization;
