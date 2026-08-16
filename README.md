@@ -1,4 +1,13 @@
 # Codesys-Mieszadlo
-Automated Mixer Control System is a PLC-based control application developed in CODESYS. The system controls the mixing process according to a predefined sequence, including process start, mixing, timing, and safe shutdown. The project focuses on sequential control, state-machine implementation, timer handling, and process visualization.
+PLC-based automation project implementing an automated industrial mixing process. The controller manages the complete process sequence using a state machine, timers, sensors, and actuator control. A CODESYS visualization provides the operator with real-time information about the current process state and system status.
 
-The application includes a CODESYS visualization panel for monitoring and controlling the mixing process. The operator can start and stop the process, monitor the current operating state, and observe process parameters and actuator status in real time.
+Main features:
+
+Automated process sequence
+State-machine based control
+Motor and valve control
+Timer-based process stages
+Sensor-based transitions
+Start/Stop functionality
+Safe shutdown logic
+CODESYS Visualization
