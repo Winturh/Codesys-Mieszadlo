@@ -1,20 +1,21 @@
 # Codesys-Mieszadlo
-PLC-based automation project implementing an automated industrial mixing process. The controller manages the complete process sequence using a state machine, timers, sensors, and actuator control. A CODESYS visualization provides the operator with real-time information about the current process state and system status.
 
-Main features:
+Projekt automatyzacji procesu przemysłowego realizowany w oparciu o PLC. Sterownik zarządza kompletną sekwencją procesu mieszania z wykorzystaniem maszyny stanów, timerów, czujników oraz sterowania elementami wykonawczymi. Wizualizacja CODESYS umożliwia operatorowi monitorowanie aktualnego stanu procesu i statusu systemu w czasie rzeczywistym.
 
-Automated process sequence;
+Główne funkcje:
 
-State-machine based control;
+Automatyczna sekwencja procesu;
 
-Motor and valve control;
+Sterowanie oparte na maszynie stanów;
 
-Timer-based process stages;
+Sterowanie silnikiem i zaworami;
 
-Sensor-based transitions;
+Etapy procesu sterowane czasowo;
 
-Start/Stop functionality;
+Przejścia między stanami na podstawie sygnałów z czujników;
 
-Safe shutdown logic;
+Funkcja Start/Stop;
 
-CODESYS Visualization;
+Bezpieczne zatrzymanie procesu;
+
+Wizualizacja w CODESYS;
