@@ -1,6 +1,6 @@
 # Codesys-Mieszadlo
 
-Projekt automatyzacji procesu przemysłowego realizowany w oparciu o PLC. Sterownik zarządza kompletną sekwencją procesu mieszania z wykorzystaniem maszyny stanów, timerów, czujników oraz sterowania elementami wykonawczymi. Wizualizacja CODESYS umożliwia operatorowi monitorowanie aktualnego stanu procesu i statusu systemu w czasie rzeczywistym.
+Projekt automatyzacji procesu przemysłowego realizowany w oparciu o PLC. Sterownik zarządza kompletną sekwencją procesu mieszania z wykorzystaniem maszyny stanów, timerów, czujników oraz sterowania elementami wykonawczymi. Wizualizacja CODESYS monitorowanie aktualnego stanu procesu i statusu systemu w czasie rzeczywistym.
 
 Główne funkcje:
 
